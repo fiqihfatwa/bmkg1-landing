@@ -25,3 +25,6 @@ Auth::routes();
 Route::get('/home', [
     HomeController::class, 'index'
 ])->name('home');
+
+
+Route::resource('peringatans', App\Http\Controllers\PeringatanController::class);

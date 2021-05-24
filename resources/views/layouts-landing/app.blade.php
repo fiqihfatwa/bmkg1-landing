@@ -6,7 +6,7 @@
 <!--<![endif]-->
 
 <head>
-    <title>BMKG | Badan Meteorologi, Klimatologi, dan Geofisika</title>
+    <title>BMKG Wilayah I Medan</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Informasi prakiraan cuaca, maritim, penerbangan, iklim, kualitas udara, gempabumi, tsunami dan tanda waktu di Indonesia dengan Cepat, Tepat, Akurat, Luas, dan Mudah Dipahami">
@@ -192,7 +192,7 @@
                             </ul>
                         </div> -->
 
-                        <!-- <div class="clearfix visible-sm"></div>
+                        <div class="clearfix visible-sm"></div>
 
                         <div class="col-md-3 col-sm-6 md-margin-bottom-30">
                             <h2>Aplikasi Mobile</h2>
@@ -208,12 +208,12 @@
                             </div>
                             <hr>
                             <ul class="social-icon-list">
-                                <li><a href="https://twitter.com/infoBMKG" target="_blank"><i class="rounded-x fa fa-twitter"></i></a></li>
-                                <li><a href="https://www.facebook.com/infoBMKG" target="_blank"><i class="rounded-x fa fa-facebook"></i></a></li>
-                                <li><a href="https://www.instagram.com/infoBMKG" target="_blank"><i class="rounded-x fa fa-instagram"></i></a></li>
-                                <li><a href="https://www.youtube.com/infoBMKG" target="_blank"><i class="rounded-x fa fa-youtube"></i></a></li>
+                                <li><a href="https://twitter.com/bbmkg1medan" target="_blank"><i class="rounded-x fa fa-twitter"></i></a></li>
+                                <!-- <li><a href="https://www.facebook.com/infoBMKG" target="_blank"><i class="rounded-x fa fa-facebook"></i></a></li> -->
+                                <li><a href="https://www.instagram.com/bbmkg1medan" target="_blank"><i class="rounded-x fa fa-instagram"></i></a></li>
+                                <li><a href="https://www.youtube.com/channel/UC6ZjKtRrsPPZyRaPCD7OiUg" target="_blank"><i class="rounded-x fa fa-youtube"></i></a></li>
                             </ul>
-                        </div> -->
+                        </div>
 
                         <!-- <div class="col-md-3 col-sm-6 md-margin-bottom-30">
 
@@ -232,7 +232,7 @@
             <footer class="copyright">
                 <div class="container">
                     <ul class="list-inline terms-menu">
-                        <li>&copy; 2021 - Badan Meteorologi, Klimatologi, dan Geofisika Wilayah 1 Medan</li>
+                        <li>&copy; 2021 - Badan Meteorologi, Klimatologi, dan Geofisika Wilayah I Medan</li>
                         <!-- <li class="home"><a href="../profil/?p=kontak-kami">Kontak Kami</a></li> -->
                         <!--<li><a href="#">Peta Situs</a></li>-->
                         <li class="sv"><a href="#"><span>sv-01</span></a></li>

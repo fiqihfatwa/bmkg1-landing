@@ -11,7 +11,7 @@
             <div class="navbar-brand">
                 <a href="/?lang=ID">
                     <img src="asset/img/logo/logo-bmkg.png" alt="Logo">
-                    <span class="hidden-xs hidden-md">BMKG Wilayah 1 Medan</span>
+                    <span class="hidden-xs hidden-md">BMKG Wilayah I Medan</span>
                 </a>
                 <span class="hidden-xs hidden-md slogan">Cepat, Tepat, Akurat, Luas, dan Mudah Dipahami</span>
             </div>
